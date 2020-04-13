@@ -1,7 +1,7 @@
 # RIT Survival Guide
 A computing based student guide to surviving the Rochester Institute of Technology and not drop out
 
-# How to not fail RIT as a CS student
+# How to not fail RIT as a Computing student
 ![r/rit subreddit meme](https://github.com/DennisSSDev/RIT-Survival-Guide/blob/master/images/meme.png)
  
 > Image credit – unknown RIT fellow from the r/rit subreddit. Please help find the author
