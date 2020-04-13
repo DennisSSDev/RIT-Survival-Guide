@@ -11,20 +11,21 @@ A computing based student guide to surviving the Rochester Institute of Technolo
 
 
 * [Scope](https://github.com/DennisSSDev/RIT-Survival-Guide/blob/master/README.md#scope)
-* The problem introduction
-*	Definitions
-*	Before you arrive
-      *	Financials
-      *	Housing and the move in process
-      *	Meal plans
-*	Your first week
-*	Your time at RIT moving forward
-      *	The workload
-      *	What to take advantage of and what to avoid
-      *	The engineering grind
-      *	Life Hacks and helpful tips
-*	Conclusion
-*	Appendix
+* [The problem introduction](https://github.com/DennisSSDev/RIT-Survival-Guide/blob/master/README.md#the-problem-introduction)
+*	[Definitions](https://github.com/DennisSSDev/RIT-Survival-Guide/blob/master/README.md#definitions)
+*	[Before you arrive](https://github.com/DennisSSDev/RIT-Survival-Guide/blob/master/README.md#before-you-arrive)
+      *	[Financials](https://github.com/DennisSSDev/RIT-Survival-Guide/blob/master/README.md#financials)
+      *	[Housing and the move in process](https://github.com/DennisSSDev/RIT-Survival-Guide/blob/master/README.md#housing-and-the-move-in-process)
+      *	[Meal plans](https://github.com/DennisSSDev/RIT-Survival-Guide/blob/master/README.md#meal-plans)
+*	[Your first week](https://github.com/DennisSSDev/RIT-Survival-Guide/blob/master/README.md#your-first-week)
+*	[Your time at RIT moving forward](https://github.com/DennisSSDev/RIT-Survival-Guide/blob/master/README.md#your-time-at-rit-moving-forward)
+      *	[The workload](https://github.com/DennisSSDev/RIT-Survival-Guide/blob/master/README.md#workload)
+      *	[What to take advantage of and what to avoid](https://github.com/DennisSSDev/RIT-Survival-Guide/blob/master/README.md#what-to-take-advantage-of-and-what-to-avoid)
+      *	[The engineering grind](https://github.com/DennisSSDev/RIT-Survival-Guide/blob/master/README.md#the-engineering-grind)
+      *	[Life Hacks and helpful tips](https://github.com/DennisSSDev/RIT-Survival-Guide/blob/master/README.md#life-hacks-and-helpful-tips)
+*	[Conclusion](https://github.com/DennisSSDev/RIT-Survival-Guide/blob/master/README.md#conclusion)
+*	[Appendix 1: RIT’s less than ideal geographical location](https://github.com/DennisSSDev/RIT-Survival-Guide/blob/master/README.md#appendix-1-rits-less-than-ideal-geographical-location)
+* [Appendix 2: GDD major specifics to keep in mind](https://github.com/DennisSSDev/RIT-Survival-Guide/blob/master/README.md#appendix-2-gdd-major-specifics-to-keep-in-mind)
 
 
 ## Scope
