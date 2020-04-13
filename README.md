@@ -42,7 +42,7 @@ The document is created from the perspective of a senior RIT student that had go
 
 **Before you arrive** goes into detail on topics that should be considered prior to the first day at the university. It’s applicable to any prospective student.
 -	**Financials** covers information about getting your education properly funded and how to not end up out of school due to poor financials.
--	**Housing** and the move in process goes over the pros and cons of RIT housing that you should know about.
+-	**Housing and the move in process** goes over the pros and cons of RIT housing that you should know about.
 -	**Meal plans** gives insider information on what the meal plans are, what to avoid, where to dine and so on. 
 
 **Your first week** covers what RIT students should really consider doing for their first day/week. It is the time to properly establish yourself as many people that you live next to will accompany you through your education at the school. It will be your first light introduction to networking.
@@ -51,7 +51,7 @@ The document is created from the perspective of a senior RIT student that had go
 -	**The workload** will cover the amount and type of work students will encounter and how to cope with it.
 -	**What to take advantage of and what to avoid** will shed some light on some of the academic activities that students should try to stay away from and what the author found especially effective towards the students’ success.
 -	**The engineering grind** will talk about what RIT never covers as it is potentially the hardest part of being a software engineer while in college.
--	**Life Hacks and helpful tips** covers general purpose tips for taking the most out of RIT and staying sane with all of the responsibilities one will have. 
+-	**Life hacks and helpful tips** covers general purpose tips for taking the most out of RIT and staying sane with all of the responsibilities one will have. 
 
 
 ## The problem introduction
