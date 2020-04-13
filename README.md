@@ -10,7 +10,7 @@ A computing based student guide to surviving the Rochester Institute of Technolo
 ## Table of Contents
 
 
-* Scope
+* [Scope](https://github.com/DennisSSDev/RIT-Survival-Guide/blob/master/README.md#scope)
 * The problem introduction
 *	Definitions
 *	Before you arrive
